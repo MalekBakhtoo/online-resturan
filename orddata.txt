@@ -1,0 +1,3 @@
+malek Sandwich  hot_doge       60000 10min  payed          ready
+malek Sandwich  double_berger  85000 10min  payed          ready
+
